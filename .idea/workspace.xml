@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="097a3a74-4564-47f6-8333-dca01f968ab8" name="Default Changelist" comment="jb">
+    <list default="true" id="d8969d69-a807-491b-b53c-32214017d89f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/bnat/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/bnat/Main.kt" afterDir="false" />
     </list>
@@ -21,14 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="LiliyaKhusainova" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UjhyhOZreQYE0jQx7UE9TGaJm5" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,8 +66,6 @@
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -88,17 +85,8 @@
       <workItem from="1576344243989" duration="10394000" />
       <workItem from="1576401874342" duration="3736000" />
       <workItem from="1576407023561" duration="140000" />
-      <workItem from="1579447616363" duration="353000" />
-      <workItem from="1579448022998" duration="335000" />
+      <workItem from="1579446703896" duration="330000" />
     </task>
-    <task id="LOCAL-00001" summary="jb">
-      <created>1579447749826</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1579447749826</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +106,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jb" />
-    <option name="LAST_COMMIT_MESSAGE" value="jb" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
